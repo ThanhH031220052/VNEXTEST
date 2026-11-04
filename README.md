@@ -1,2 +1,3 @@
 # VNEXTEST
-Vnext Git test
+
+đây là thực hành git và github
