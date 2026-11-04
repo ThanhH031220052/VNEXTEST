@@ -9,3 +9,4 @@
 - git pull: Lấy và tích hợp thay đổi từ remote
 - git branch: Xem danh sách nhánh
 - git switch: Chuyển nhánh
+  hello
